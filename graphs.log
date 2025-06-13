@@ -1,0 +1,19 @@
+* fd45f47 Agregando 2 párrafos
+*   1bfc650 Resolviendo conflicto en estaciones del año con fechas de inicio
+|\  
+| * 4c28015 Agregando las estaciones del año
+* | c7e6e1e Agregando estacioens del año con fecha de inicio
+|/  
+*   4c80ac0 Resolviendo conflicto merger main/html en el documento index.html
+|\  
+| * bde508b Agregando main.js al index.html
+* | 2a1c59a Agregando styles.css al index.html
+* |   ecb3ed0 Merge branch 'js'
+|\ \  
+| * | 706a2fa Creando archivo JS
+* | | f1bd740 Creando archivo style.css
+| |/  
+|/|   
+* | 9d8bb4b Creando archivo index.html
+|/  
+* 9d808c0 Mi primer git solito
